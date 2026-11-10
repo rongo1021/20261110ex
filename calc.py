@@ -5,5 +5,5 @@ if 출력 in 구구단:
     for i in range(1,10):
         print(i * 구구단[출력])
 
-else:
-    print('떠허')
+    else:
+        print('떠허')
