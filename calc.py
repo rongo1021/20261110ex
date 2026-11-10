@@ -2,6 +2,7 @@
 출력 = '2단'
 
 if 출력 in 구구단:
+    print(출력)
     for i in range(1,10):
         print(i * 구구단[출력])
 
